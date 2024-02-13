@@ -17,3 +17,9 @@ Gemini Pro Vision offers a multitude of benefits across various industries and u
 In the financial sector, Gemini Pro Vision streamlines invoice processing and expense management, allowing organizations to gain deeper insights into their financial transactions and improve operational efficiency. By automating tedious manual tasks, the platform enables finance professionals to focus on strategic decision-making and value-added activities.
 
 Overall, Gemini Pro Vision empowers organizations to unlock the full potential of their data, transforming unstructured information into actionable insights that drive business growth and innovation.
+
+![Img](https://github.com/abhamidi-1234/DocVision-Empowering-Queries-on-Invoices-and-Prescriptions/blob/main/Capture7.PNG)
+
+![Img](https://github.com/abhamidi-1234/DocVision-Empowering-Queries-on-Invoices-and-Prescriptions/blob/main/Capture8.PNG)
+
+![Img](https://github.com/abhamidi-1234/DocVision-Empowering-Queries-on-Invoices-and-Prescriptions/blob/main/Capture9.PNG)
